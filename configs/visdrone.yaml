@@ -1,0 +1,11 @@
+path: C:\Users\ensar\Desktop\HAVACILIK1\BlackScope\data\visdrone
+train: train/images
+val: val/images
+test: test/images
+
+nc: 4
+names:
+  0: tasit
+  1: insan
+  2: UAP
+  3: UAI
