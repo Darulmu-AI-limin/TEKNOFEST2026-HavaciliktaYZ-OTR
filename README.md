@@ -1,3 +1,5 @@
+<div align="center">
+
 # ✈️ BlackScope: Havacılıkta Yapay Zeka Sistemi
 ### TEKNOFEST 2026 — Havacılıkta Yapay Zeka Yarışması
 #### **Takım:** Darülmu-AI-limin | **Takım ID:** #754906 | **Başvuru ID:** #4983561
