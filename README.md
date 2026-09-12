@@ -25,9 +25,9 @@
 - [Proje Genel Bakışı](#-proje-genel-bakışı)
 - [Takım Şeması](#-takım-şeması)
 - [Temel Yetenekler ve Görev Çözümleri](#-temel-yetenekler-ve-görev-çözümleri)
-- [Sistem Mimarisi](#-Sistem-Mimarisi)
+- [Sistem Mimarisi](#-🏗️-Sistem-Mimarisi)
 - [Dizin Yapısı](#-dizin-yapısı)
-- [Kurulum](#-Kurulum)
+- [Kurulum](#-🛠️-Kurulum)
 - [Kullanım](#-kullanım)
 - [Lisans](#-Lisans)
 
