@@ -29,6 +29,7 @@
 - [Dizin Yapısı](#-dizin-yapısı)
 - [Kurulum](#-🛠️-Kurulum)
 - [Kullanım](#-kullanım)
+- [Sunucu İletişim Protokolü ve JSON Şeması](#-sunucu-iletişim-protokolü-ve-json-şeması)
 - [Lisans](#-Lisans)
 
 ---
